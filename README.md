@@ -1,4 +1,4 @@
-### Hi there 👋 ReignOfN8, ⚡🔭🌱👯🤔💬📫😄, Seachles. I'm also N8.
+### Hi there 👋 ReignOfN8, ⚡🔭🌱👯🤔💬📫😄, 😶. I'm also N8.
 
 <!--
 **ReignOfN8/ReignOfN8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
